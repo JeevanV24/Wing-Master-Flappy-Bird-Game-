@@ -1,0 +1,17 @@
+com/example/wingmaster/BaseObject.java
+ com.example.wingmaster.BaseObject
+com/example/wingmaster/Pipe.java
+ com.example.wingmaster.Pipe
+com/example/wingmaster/GameView.java
+ com.example.wingmaster.GameView
+ com.example.wingmaster.GameView$1
+com/example/wingmaster/Constants.java
+ com.example.wingmaster.Constants
+com/example/wingmaster/Bird.java
+ com.example.wingmaster.Bird
+com/example/wingmaster/BuildConfig.java
+ com.example.wingmaster.BuildConfig
+com/example/wingmaster/MainActivity.java
+ com.example.wingmaster.MainActivity
+ com.example.wingmaster.MainActivity$1
+ com.example.wingmaster.MainActivity$2
