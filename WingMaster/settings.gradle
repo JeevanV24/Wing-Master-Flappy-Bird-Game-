@@ -1,0 +1,2 @@
+rootProject.name = "Wing Master"
+include ':app'
